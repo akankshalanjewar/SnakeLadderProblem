@@ -4,9 +4,6 @@ namespace UC_3_CheckingPosition
 {
     public class Program
     {
-
-
-
         public const int NoPlay = 0;
         public const int GotLadder = 1;
         public const int SnakeBite = 2;
@@ -42,7 +39,6 @@ namespace UC_3_CheckingPosition
 
                 Console.ReadLine();
             }
-
         }
     }
 }
